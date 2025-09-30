@@ -1,3 +1,6 @@
+# This Script is rejected for use due someone be a vibecoder lol.
+
+
 #!/bin/bash
 
 echo ""
