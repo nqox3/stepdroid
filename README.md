@@ -29,9 +29,9 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="65" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="65" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
 </div>
 
 ###
