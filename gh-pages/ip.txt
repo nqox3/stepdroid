@@ -1,16 +1,3 @@
-
-FREE ONLINE service to search for all IP ranges of any country.
-To get all the IP addresses of a country, you need to select the country you are interested in from the list. The IP ranges database is updated every month. This list of IP countries contains IP and IPv6 addresses.
-
-By default, lists are output directly to the web browser. Due to the fact that the lists are very large, on some computers it may appear that the browser is frozen. To avoid this, put a check mark next to “Download”, as a result, instead of displaying the IP ranges will be downloaded as a simple text file.
-
-You can view and download IP ranges of countries in CIDR notation. But if you select this option, the conversion to CIDR can take a long time. It may take several minutes or more – the specific time depends on the number of ranges for conversion. Note that there are no IPv6 ranges for CIDR notation!
-
-You may also be interested in the following articles:
-
-Introduction to IPv6 Addresses: How to Use and How to Explore the Network
-How to find out local IP addresses of ISP
-How to find out the Autonomous system on the IP and how to find out all the Autonomous System IPs
 2.21.89.0-2.21.89.255
 2.21.173.0-2.21.173.255
 2.56.136.0-2.56.136.255
